@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+#ignore files
+example_dashboard.png
+index.ipynb
 
 # Distribution / packaging
 .Python
